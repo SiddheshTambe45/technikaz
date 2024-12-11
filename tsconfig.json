@@ -24,7 +24,7 @@
     "./**/*.js",
     // Force the JSON files in the src folder to be included
     "src/**/*.json",
-    "providers/**/*.ts"
+    "src/providers/**/*.ts"
   ],
 
   "exclude": [
